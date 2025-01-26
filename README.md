@@ -16,8 +16,7 @@ To evaluate these methods, we created an **Empathy Map** to understand user need
 ![EmpathyMap](images/Empathy_map.jpg)
 
 ### Concept Evaluation Matrix
-![CEM][def]
-[def]: images/CEM.jpg
+![CEM](images/CEM.jpg)
 
 After going through the Concept Evaluatiion Matrix, I have identified that Coming up with a Machine Leanrning Model is optimal way of approaching the problem than the traditional Methods.
 
